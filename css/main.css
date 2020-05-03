@@ -1,0 +1,15 @@
+#title {
+    color: navy;
+    font-family: Arial, serif;
+    font-style: italic;
+    text-align: center;
+}
+
+#line {
+    width: 50%;
+}
+
+#strophe {
+    text-align: center;
+    color: orange;
+}
